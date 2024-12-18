@@ -1,0 +1,33 @@
+{
+    "domain": "google.com",
+    "start_time": 1733268863.686393,
+    "results": {
+        "subdomains": [
+            "92mkhms.l.google.com",
+            "92mfroogle.google.com",
+            "92malt2.1.google.com",
+            "92mrate-limited-proxy-66-249-89-145.google.com",
+            "92mkhms3.google.com",
+            "92mmail-pj1-f104.google.com",
+            "92mgoogle.com",
+            "92mgoogle-proxy-66-249-80-69.google.com",
+            "92mrate-limited-proxy-72-14-199-186.google.com",
+            "92mafp.google.com",
+            "92muberproxy.l.google.com",
+            "92mghs-svc-https-c187.ghs-ssl.googlehosted.com",
+            "92mappmaker.corp.google.com",
+            "92mbrti-ig-smtp.google.com",
+            "92mwww3.l.google.com",
+            "92mrr4---sn-hp57kndk.c.drive.google.com",
+            "92mns3.google.com",
+            "92mrr4.sn-hp57kndk.c.drive.google.com",
+            "92mhercules.corp.google.com",
+            "92mns4.google.com",
+            "92mns2.google.com",
+            "92mwww2.l.google.com",
+            "92mns1.google.com"
+        ],
+        "ips": [],
+        "emails": []
+    }
+}

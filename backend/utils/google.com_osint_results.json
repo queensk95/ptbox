@@ -1,0 +1,35 @@
+{
+    "emails": [],
+    "hosts": [
+        "www.google.com",
+        "translate.google.com",
+        "support.google.com",
+        "myaccount.google.com",
+        "accounts.google.com",
+        "myactivity.google.com"
+    ],
+    "ips": [
+        "142.250.75.100",
+        "142.250.75.78",
+        "142.250.110.84",
+        "142.250.75.46",
+        "74.125.206.101",
+        "64.233.167.84"
+    ],
+    "geo_asn_info": [
+        {
+            "ip": "142.250.75.78",
+            "city": "Tel Aviv",
+            "country": "Israel",
+            "asn": "AS15169",
+            "org": "Google LLC"
+        },
+        {
+            "ip": "142.250.75.46",
+            "city": "Tel Aviv",
+            "country": "Israel",
+            "asn": "AS15169",
+            "org": "Google LLC"
+        }
+    ]
+}

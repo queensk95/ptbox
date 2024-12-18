@@ -1,0 +1,4 @@
+2024-12-03 15:48:48.352223 - Starting Amass scan for: google.com
+2024-12-03 15:48:48.352223 - Running command: C:\Users\theka\go\bin\amass.exe enum -d google.com -o google.com_amass_output.json -timeout 1000 -max-dns-queries 10
+2024-12-03 17:45:26.586148 - Starting Amass scan for: google.com
+2024-12-03 17:45:26.586148 - Running command: C:\Users\theka\go\bin\amass.exe enum -d google.com -o google.com_amass_output.json -timeout 100 -max-dns-queries 10

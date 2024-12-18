@@ -1,0 +1,17 @@
+2024-12-04 01:24:37.812558 - Starting Amass scan for: google.com
+2024-12-04 01:24:37.814558 - Running command: C:\Users\theka\go\bin\amass.exe enum -d google.com -o google.com_amass_output.json -timeout 100 -max-dns-queries 10
+2024-12-04 01:26:17.853387 - Amass scan for google.com timed out after 100 seconds.
+2024-12-04 01:26:17.853387 - Output file google.com_amass_output.json not found.
+2024-12-04 01:26:17.853387 - Results exported to google.com_exported_results.json
+2024-12-04 01:29:06.864264 - Starting Amass scan for: google.com
+2024-12-04 01:29:06.868370 - Running command: C:\Users\theka\go\bin\amass.exe enum -d google.com -o google.com_amass_output.json -timeout 100 -max-dns-queries 10
+2024-12-04 01:30:46.980834 - Amass scan for google.com timed out after 100 seconds.
+2024-12-04 01:30:46.980834 - Error parsing Amass output as JSON. Attempting to process as text.
+2024-12-04 01:30:46.981728 - Extracted Results for google.com: {'subdomains': ['92mgoogle-proxy-66-102-7-44.google.com', '92mdir.google.com', '92mrr4---sn-hp57yn7r.c.drive.google.com', '92mgoogle.com', '92mrr1---sn-p5qs7nzy.c.drive.google.com', '92msearch.corp.google.com', '92mrr1---sn-npoe7ns7.c.drive.google.com', '92mrate-limited-proxy-108-177-72-11.google.com', '92mrr1.sn-npoe7ns7.c.drive.google.com', '92mencrypted-tbn.l.google.com', '92mafp.google.com', '92muberproxy.l.google.com', '92mdirectory.google.com', '92msmtp.google.com', '92mrr4---sn-p5qlsn7l.c.drive.google.com', '92mwww3.l.google.com', '92mns3.google.com', '92mns4.google.com', '92mencrypted-tbn3.google.com', '92mrr4.sn-p5qlsn7l.c.drive.google.com', '92mjotspot-qa08.corp.google.com', '92mrr4.sn-hp57yn7r.c.drive.google.com', '92mrr1.sn-p5qs7nzy.c.drive.google.com', '92mns2.google.com', '92mplus.google.com', '92mwww2.l.google.com', '92mns1.google.com', '92mearthengine.google.com'], 'ips': [], 'emails': []}
+2024-12-04 01:30:46.983760 - Results exported to google.com_exported_results.json
+2024-12-04 01:32:43.599384 - Starting Amass scan for: google.com
+2024-12-04 01:32:43.599384 - Running command: C:\Users\theka\go\bin\amass.exe enum -d google.com -o google.com_amass_output.json -timeout 100 -max-dns-queries 10
+2024-12-04 01:34:23.686393 - Amass scan for google.com timed out after 100 seconds.
+2024-12-04 01:34:23.686393 - Error parsing Amass output as JSON. Attempting to process as text.
+2024-12-04 01:34:23.686393 - Extracted Results for google.com: {'subdomains': ['92mkhms.l.google.com', '92mfroogle.google.com', '92malt2.1.google.com', '92mrate-limited-proxy-66-249-89-145.google.com', '92mkhms3.google.com', '92mmail-pj1-f104.google.com', '92mgoogle.com', '92mgoogle-proxy-66-249-80-69.google.com', '92mrate-limited-proxy-72-14-199-186.google.com', '92mafp.google.com', '92muberproxy.l.google.com', '92mghs-svc-https-c187.ghs-ssl.googlehosted.com', '92mappmaker.corp.google.com', '92mbrti-ig-smtp.google.com', '92mwww3.l.google.com', '92mrr4---sn-hp57kndk.c.drive.google.com', '92mns3.google.com', '92mrr4.sn-hp57kndk.c.drive.google.com', '92mhercules.corp.google.com', '92mns4.google.com', '92mns2.google.com', '92mwww2.l.google.com', '92mns1.google.com'], 'ips': [], 'emails': []}
+2024-12-04 01:34:23.686393 - Results exported to google.com_exported_results.json
